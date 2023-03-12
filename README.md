@@ -1,4 +1,4 @@
-# Vue URL Previewer V0.5
+# Vue URL Previewer v0.5
 
 The vue3 component for previewing on webpages.
 
