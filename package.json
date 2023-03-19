@@ -1,13 +1,26 @@
 {
   "name": "v-preview-urls",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "private": false,
   "main": "dist/v-preview-urls.common.js",
   "module": "dist/v-preview-urls.umd.min.js",
   "author": "Augustine Francis E.",
+  "repository": "https://github.com/annonymousauthority/v-preview-urls",
+  "homepage": "augustine.tryporpra.com",
+  "license": "MIT",
   "description": "A vue3 component for url previewer that helps users preview urls. It takes og:Image og:Description and og:title information to build a url",
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "npm",
+    "vue3",
+    "node",
+    "javascript",
+    "golang",
+    "tailwindcss",
+    "MIT",
+    "previewer"
   ],
   "scripts": {
     "serve": "vue-cli-service serve",
