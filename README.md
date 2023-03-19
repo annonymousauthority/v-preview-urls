@@ -55,7 +55,7 @@ Submit a pull request with full remarks documenting your changes
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/annonymousauthority/v-preview-urls/blob/master/license.md) file for details.
 
 ### Support
 
