@@ -44,15 +44,15 @@ Found a problem? Want a new feature? First of all, see if your issue or idea has
 
 Pull requests are a great way to contribute, so make sure they are focused in scope and avoid including unrelated commits. To get started, follow these steps:
 
-Fork the repository by clicking the "Fork" button on GitHub.
-Clone your fork using the command 'git clone https://github.com/your-username/v-preview-urls'.
-Navigate to the newly cloned directory using 'cd v-preview-urls'.
-Create a new branch for your feature with 'git checkout -b my-new-feature'.
-Install the necessary tools for development with 'yarn'.
-Make your changes.
-Commit your changes with 'git commit -am 'Add some feature''.
-Push your changes to the branch with 'git push origin my-new-feature'.
-Finally, submit a pull request with a full description of your changes.
+- Fork the repository by clicking the "Fork" button on GitHub.
+- Clone your fork using the command 'git clone https://github.com/your-username/v-preview-urls'.
+- Navigate to the newly cloned directory using 'cd v-preview-urls'.
+- Create a new branch for your feature with 'git checkout -b my-new-feature'.
+- Install the necessary tools for development with 'yarn'.
+- Make your changes.
+- Commit your changes with 'git commit -am 'Add some feature''.
+- Push your changes to the branch with 'git push origin my-new-feature'.
+- Finally, submit a pull request with a full description of your changes.
 
 ### License
 
