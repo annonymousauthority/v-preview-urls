@@ -42,16 +42,17 @@ Found a problem? Want a new feature? First of all, see if your issue or idea has
 
 #### Submitting pull requests
 
-Pull requests are the greatest contributions, so be sure they are focused in scope and do avoid unrelated commits.
-Fork it!
-Clone your fork: git clone https://github.com/annonymousauthority/v-preview-urls
-Navigate to the newly cloned directory: cd v-preview-urls
-Create a new branch for the new feature: git checkout -b my-new-feature
-Install the tools necessary for development: yarn
+Pull requests are a great way to contribute, so make sure they are focused in scope and avoid including unrelated commits. To get started, follow these steps:
+
+Fork the repository by clicking the "Fork" button on GitHub.
+Clone your fork using the command 'git clone https://github.com/your-username/v-preview-urls'.
+Navigate to the newly cloned directory using 'cd v-preview-urls'.
+Create a new branch for your feature with 'git checkout -b my-new-feature'.
+Install the necessary tools for development with 'yarn'.
 Make your changes.
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request with full remarks documenting your changes
+Commit your changes with 'git commit -am 'Add some feature''.
+Push your changes to the branch with 'git push origin my-new-feature'.
+Finally, submit a pull request with a full description of your changes.
 
 ### License
 
